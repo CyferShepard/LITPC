@@ -1,0 +1,14 @@
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\LITPC.exe.config
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\LITPC.exe
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\LITPC.pdb
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\HtmlAgilityPack.dll
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\HtmlAgilityPack.pdb
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Release\HtmlAgilityPack.xml
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.Form1.resources
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.pb.resources
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.Properties.Resources.resources
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.csproj.GenerateResource.cache
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.csproj.CopyComplete
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.exe
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Release\LITPC.pdb

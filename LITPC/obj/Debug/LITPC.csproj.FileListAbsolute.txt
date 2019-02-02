@@ -1,0 +1,15 @@
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\LITPC.exe.config
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\LITPC.exe
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\LITPC.pdb
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\HtmlAgilityPack.dll
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\HtmlAgilityPack.pdb
+F:\Documents\Visual Studio Projects\LITPC\LITPC\bin\Debug\HtmlAgilityPack.xml
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.csprojAssemblyReference.cache
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.Form1.resources
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.Properties.Resources.resources
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.csproj.GenerateResource.cache
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.csproj.CopyComplete
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.exe
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.pdb
+F:\Documents\Visual Studio Projects\LITPC\LITPC\obj\Debug\LITPC.pb.resources
